@@ -14,6 +14,17 @@ import java.awt.Color;
 import javax.swing.border.LineBorder;
 import javax.swing.SwingConstants;
 
+/**
+ * 
+ * Documentación ExamenEDE 2ev.
+ * 
+ * @author Iker Lopez 1DAMi
+ * 
+ * @version Version 1, 2019
+ * 
+ *
+ */
+
 @SuppressWarnings("serial")
 public class Principal extends JFrame {
 	private JPanel contentPane;
